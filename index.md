@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Project 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Airbnb Price Prediction](/sample)
+<img src="images/Airbnb Slide.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Blog
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
