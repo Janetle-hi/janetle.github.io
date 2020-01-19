@@ -19,7 +19,7 @@
 
 ### Blog
 
-- [How to pick a perfect baby name](/Blogs/babyname.md)
+- [How to pick a perfect baby name](/babyname.md)
 - [E-commerce opportunities in Vietnam](https://www.vietnam-briefing.com/news/e-commerce-logistics-emerging-opportunities-vietnam.html/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
