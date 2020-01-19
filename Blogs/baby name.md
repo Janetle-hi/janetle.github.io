@@ -1,5 +1,4 @@
 ## How to pick a perfect baby name
-<img src='
 How to name your baby without stress? You obviously want a name that will suit your child. You don't want it too ubiquitous or too abnormal. Luckily, in a world where you can find everything with your phone from some funny cat videos to cooking recipes , there’s definitely long lists of baby names for you to choose. 
 <br>
 When it comes to baby name, everyone has an opinion.  Don’t know where to start? 
