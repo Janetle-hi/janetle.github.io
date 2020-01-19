@@ -4,7 +4,7 @@
 
 ### Project 
 
-[Airbnb Price Prediction](/sample)
+[Airbnb Price Prediction](/sample.md)
 <img src="images/Airbnb Slide.png"/>
 
 ---
