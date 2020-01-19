@@ -3,11 +3,14 @@ How to name your baby without stress? You obviously want a name that will suit y
 <br>
 When it comes to baby name, everyone has an opinion.  Don’t know where to start? 
 Let's first find out top 10 most popular names until 2008.
-<img src="images/capture.png"/>
+
+<img src="images/Capture.png"/>
 Let's run recommendation. The program aims to allow parents-to-be to tell the gender of the baby and the style of the name they want. If the style is modern, we recommends names from 1990 and up. If the style is classic, we recommend names pre -1900 (1899 and down). If user says none for style, then the year does not matter, we take all the data. The recommended name is the most popular name in that period.
 And here's the result:
+
 <img src="images/recom.png"/>
 Or you already have a name in mind but not sure how popular it is compared to others. Say John for example, let's see the popularity of John from 1880 to 2008.
+
 <img src="images/name.png"/>
 The goal is to create a simple program that would assist a parent-to-be to find a name for his/her baby. For detail about how it works, please visit my github. While play with this data, I just find out some interesting facts about naming a baby around the world.
 Data set source: https://github.com/hadley/data-baby-names/raw/master/baby-names.csv
