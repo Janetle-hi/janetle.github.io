@@ -11,7 +11,7 @@ Airbnb is one of the largest online marketplaces for arranging or offering apart
 ---
 #### [Happiness and Freedom](/happiness.md)
 <img src="images/newplot.png"/>
-Essex lorry death tragedy (Oct 2019) has plunged millions of Vietnamese people into sorrow. This made me wonder about the gaps of nations that so many desperate people risk their life for chances at better economic opportunities. But is it the richer, the happier? How significant the gap between the Wealthy and the Poor? In this project, I will explore the data from World Happiness Report and Passport Ranking Index to see what data tells about Happiness & Freedom.
+Essex lorry death tragedy (Oct 2019) has plunged millions of Vietnamese people into sorrow. This made me concerned about the gaps of nations that so many desperate people risk their life for chances at better economic opportunities. But is it the richer, the happier? How significant the gap between the Wealthy and the Poor? In this project, I will explore the data from World Happiness Report and Passport Ranking Index to see what data tells about Happiness & Freedom.
 
 ---
 
