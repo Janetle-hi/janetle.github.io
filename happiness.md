@@ -23,10 +23,10 @@ The linear regression between Life Ladder and GDP per capita indicates that acro
 <br><br>
 #### World Value Survey
 The World Value Survey (WVS) collects data from a series of representative national surveys covering almost 100 countries, with the earliest estimates dating back to 1981. In these surveys, respondents are asked: “Taking all things together, would you say you are (i) Very happy, (ii) Rather happy, (iii) Not very happy or (iv) Not at all happy”.
-<img src="images/Capture.png"/>
+<img src="images/Capture.PNG"/>
 The WVS covers only a minority of the world's nations and is only carried out every five years, that's why the data I use latest is 2014 updated. As a result, top 10 countries with highest
 The trend throughout the period 1984-2014 is positive that the most recent observation is higher than the earliest and in some cases, the improvement has been very large.
-<img src="images/line.png"/>
+<img src="images/Line.png"/>
 #### Happy Planet Index
 The Happy Planet Index measures what matters: sustainable wellbeing for all. It tells us how well nations are doing at achieving long, happy, sustainable lives. Wealthy Western countries, often seen as the standard of success, do not rank highly on the Happy Planet Index.  Instead, several countries in Latin America and the Asia Pacific region lead the way by achieving high life expectancy and wellbeing with much smaller Ecological Footprints.In 2016, out of 140 countries, Costa Rica topped the index for the third time in a row. It was followed by Mexico, Colombia, Vanuatu and Vietnam. At the bottom were Chad, Luxembourg and Togo.
 _draft_
