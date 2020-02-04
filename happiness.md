@@ -33,9 +33,7 @@ The trend throughout the period 1984-2014 is positive that the most recent obser
 <img src="images/Line.png"/>
 #### Happy Planet Index
 The Happy Planet Index measures sustainable wellbeing for all. It tells us how well nations are doing at achieving long, happy, sustainable lives. Wealthy Western countries, often seen as the standard of success, do not rank highly on the Happy Planet Index.  Instead, several countries in Latin America and the Asia Pacific region lead the way by achieving high life expectancy and wellbeing with much smaller Ecological Footprints.In 2016, out of 140 countries, Costa Rica topped the index for the third time in a row. It was followed by Mexico, Colombia, Vanuatu and Vietnam. At the bottom were Chad, Luxembourg and Togo.Below is a snapshot of all countries'scores using Plotly.
-
-
-_draft_
+<plot>
 #### World Database of Happiness
 <br><br>
 ### Freedom
