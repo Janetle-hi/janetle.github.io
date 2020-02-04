@@ -26,10 +26,7 @@ In this project, my main purpose is to play with the data with relevant insight 
 
 - [How to pick a perfect baby name](/babyname.md)
 - [E-commerce opportunities in Vietnam](https://www.vietnam-briefing.com/news/e-commerce-logistics-emerging-opportunities-vietnam.html/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Pharmacy Law Guidance Scheduled for July Implementation in Vietnam](https://www.vietnam-briefing.com/news/pharmacy-law-guidance-scheduled-july-implementation-vietnam.html/)
 ---
 
 
