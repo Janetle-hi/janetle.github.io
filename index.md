@@ -27,10 +27,12 @@ Governance application <br>
 <br>
 *Topic: Data Governance, Project Management*
 
-## Article
+---
 - [Happiness and Freedom](/happiness.md)
 <img src="images/newplot.png"/>
 Essex lorry death tragedy (Oct 2019) has plunged millions of Vietnamese people into sorrow. This made me concerned about the gaps of nations that so many desperate people risk their life for chances at better economic opportunities. But is it the richer, the happier? How significant the gap between the Wealthy and the Poor? In this project, I will explore the data from World Happiness Report and Passport Ranking Index to see what data tells about Happiness & Freedom.
+
+## Article
 - [E-commerce opportunities in Vietnam](https://www.vietnam-briefing.com/news/e-commerce-logistics-emerging-opportunities-vietnam.html/)
 - [Pharmacy Law Guidance Scheduled for July Implementation in Vietnam](https://www.vietnam-briefing.com/news/pharmacy-law-guidance-scheduled-july-implementation-vietnam.html/)
 
