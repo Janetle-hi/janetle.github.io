@@ -12,7 +12,7 @@ Airbnb is one of the largest online marketplaces for arranging or offering apart
 *Tools: Python, Scikit-Learn, Feature Scaling, Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, Natural language Processing, Web develop*.
 
 ---
-#### [AZERBAIJANI LAUNDROMAT](/money.md)
+#### [Azerbaijani Laundromat](/money.md)
 <img src="images/im.jpg"/>
 Using various tools (Python, SQL, Trifacta, Tableau) to perform analysis on transaction activities for the years from 2012 to 2014
 
