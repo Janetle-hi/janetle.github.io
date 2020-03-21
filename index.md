@@ -14,13 +14,18 @@ Airbnb is one of the largest online marketplaces for arranging or offering apart
 ---
 #### [Azerbaijani Laundromat](/money.md)
 <img src="images/im.jpg"/>
-Using various tools (Python, SQL, Trifacta, Tableau) to perform analysis on transaction activities for the years from 2012 to 2014
+Perform analysis on transaction activities for the years from 2012 to 2014 to detect money laundering activities.
+
+*Tool: Python, SQL, Trifacta, Time Series, Tableau*
 
 ---
 
 #### [Happiness and Freedom](/happiness.md)
 <img src="images/newplot.png"/>
 Essex lorry death tragedy (Oct 2019) has plunged millions of Vietnamese people into sorrow. This made me concerned about the gaps of nations that so many desperate people risk their life for chances at better economic opportunities. But is it the richer, the happier? How significant the gap between the Wealthy and the Poor? In this project, I will explore the data from World Happiness Report and Passport Ranking Index to see what data tells about Happiness & Freedom.
+
+*Tools: Python, seaborn, Plotly*
+
 ---
 #### [Change Management Project](/plan.md)
 <img src="images/plan.png"/>
