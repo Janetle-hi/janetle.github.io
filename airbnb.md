@@ -38,5 +38,5 @@ After running different algorithms including Linear Regression, K Means, Decisio
 <br>
 Hosts can use the link and input their available data. Output will be suggested price housing. 
 <br><br>
-Web: Please click [here](http://aec4.com/cis9650/airbnb.py)
+Web: Please click [here](http://aec4.com/cis9650/airbnb.py) <br>
 Code: Please click [here](https://github.com/Janetle-hi/Airbnb-Price-Prediction) to see the Code on Github.
