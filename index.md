@@ -22,9 +22,8 @@ In this project, my main purpose is to play with the data with relevant insight 
 ● Implications to the organisation and recommended decisions or actions<br>
 ● Recommendations for a robust solution to prevent future recurrence of the issue<br>
 
-## Blog
+## Article
 
-- [How to pick a perfect baby name](/babyname.md)
 - [E-commerce opportunities in Vietnam](https://www.vietnam-briefing.com/news/e-commerce-logistics-emerging-opportunities-vietnam.html/)
 - [Pharmacy Law Guidance Scheduled for July Implementation in Vietnam](https://www.vietnam-briefing.com/news/pharmacy-law-guidance-scheduled-july-implementation-vietnam.html/)
 
