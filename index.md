@@ -11,6 +11,13 @@ Airbnb is one of the largest online marketplaces for arranging or offering apart
 
 *Tools: Python, Scikit-Learn, Feature Scaling, Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, Natural language Processing, Web develop*.
 
+
+---
+#### [Customer Churn Prediction](https://github.com/Janetle-hi/Customer-Churn-Prediction)
+Predicting the probability that a customer will churn or stay has an important role in the implementation of customer retention strategy especially in telecommunications sectors. By predicting user churn, we can take personalized measures and suitable customer service for each user segment.
+
+*Tools: Python, Scikit-Learn, Feature Scaling, Logistic Regression, Decision Tree, Random Forest, SVM, Neural Network*.
+
 ---
 #### [Azerbaijani Laundromat](/money.md)
 <img src="images/im.jpg"/>
