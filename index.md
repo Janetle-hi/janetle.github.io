@@ -13,7 +13,7 @@ Airbnb is one of the largest online marketplaces for arranging or offering apart
 
 
 ---
-#### [Customer Churn Prediction](https://github.com/Janetle-hi/Customer-Churn-Prediction)
+#### [Customer Churn Prediction](https://github.com/Janetle-hi/Customer-Churn-Prediction/blob/master/Churn%20Modeling.ipynb)
 <img src="images/churn.jpg"/>
 Predicting the probability that a customer will churn or stay has an important role in the implementation of customer retention strategy especially in telecommunications sectors. By predicting user churn, we can take personalized measures and suitable customer service for each user segment.
 
