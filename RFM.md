@@ -17,5 +17,5 @@ To perform RFM analysis, we divide customers into four equal groups according to
 <br> <br>
 [Source](https://www.blastanalytics.com/blog/rfm-analysis-boosts-sales)
 
-For Code: [Jupiter Notebook](https://github.com/Janetle-hi/RFM-Analysis)
+For Code: [Jupiter Notebook](https://github.com/Janetle-hi/RFM-Analysis/blob/master/RFM%20Analysis.ipynb)
 For Presentation: [Dashboard](https://public.tableau.com/profile/trang3010#!/vizhome/RFMSegment/RFMSegment?publish=yes)
