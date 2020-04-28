@@ -20,7 +20,7 @@ Predicting the probability that a customer will churn or stay has an important r
 *Tools: Python, Scikit-Learn, Feature Scaling, Logistic Regression, Decision Tree, Random Forest, SVM, Neural Network*.
 
 ---
-#### [Customer Segmentation by RFM Clustering](/RMF.md)
+#### [Customer Segmentation by RFM Clustering](/RFM.md)
 <img src="images/RFM.PNG"/>
 Perform RFM (Recency, Frequency, Monetary) analysis to group customers based on their transaction history – how recently, how often and how much did they buy. RFM analysis is super useful in understanding responsiveness of your customers and for segmentation driven database marketing.
 
