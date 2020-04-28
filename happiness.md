@@ -41,5 +41,5 @@ In the fact that people tend to immigrate to another country with higher happine
 <br>
 Below is a snapshot of different countries with information on Happiness Score, Freedom Score, GDP and social support.
 <img src="images/Screenshot (1).png"/>
-
-Code: Please click [here] (https://colab.research.google.com/drive/1poVrpxZ_0J1EKWqKoTaAu5DikSjMoFKJ) to see the Plotly code.
+<br>
+Please click [here](https://colab.research.google.com/drive/1poVrpxZ_0J1EKWqKoTaAu5DikSjMoFKJ) for Plotly code
