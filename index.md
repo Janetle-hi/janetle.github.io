@@ -4,7 +4,7 @@
 
 ## Project 
 
-#### [Airbnb Price Prediction](https://github.com/Janetle-hi/janetle.github.io/blob/master/file/sample.md)
+#### [Airbnb Price Prediction](/sample.md)
 <img src="images/Airbnb Slide.png"/>
 Airbnb is one of the largest online marketplaces for arranging or offering apartments, homestays and lodging. New York is listed as one of the top 10 popular cities for booking experiences in the world.However, there are currently no free and accurate services which help hosts price their properties using a wide range of data points. This project aims to help hosts determine a proper nightly rate based on the pricing model built from a range of relative factors in the New York Area.<br>
 <br>
@@ -31,7 +31,7 @@ Visualization: [Dashboard](https://public.tableau.com/profile/trang3010#!/vizhom
 *Tool: Cohort Analysis, RFM model, K-NN, Tableau*
 
 ---
-#### [Azerbaijani Laundromat](https://github.com/Janetle-hi/janetle.github.io/blob/master/file/money.md)
+#### [Azerbaijani Laundromat](/money.md)
 <img src="images/im.jpg"/>
 Perform analysis on transaction activities for the years from 2012 to 2014 to detect money laundering activities.
 
