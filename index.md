@@ -44,14 +44,21 @@ Essex lorry death tragedy (Oct 2019) has plunged millions of Vietnamese people i
 *Tools: Python, seaborn, Plotly*
 
 ---
-#### [Change Management Project](/plan.md)
+#### [Change Management Project](https://drive.google.com/file/d/1TdC962GKoL4dyyHASkA713mV0fEWIw52/view?usp=sharing) 
 <img src="images/plan.png"/>
-A project plan for the implementation of the Collibra Data
-Governance application <br>
-● The initial implementation will focus on functionality to support Business Glossary, Data Lineage and Controls
+ Project Planning covering:<br> <br>
+● Project methodologies (Agile & Waterfall)<br>
+● Essentials of project planning <br>
+● Project scope <br>
+● Scheduling and estimating <br>
+● The critical path <br>
 <br>
 <br>
-*Topic: Data Governance, Project Management*
+Project Plan: Please click [here](https://drive.google.com/file/d/1Ksve6Vo_7OadR9Phlxz8AcvX5yPu1Fpu/view?usp=sharing) to see the Project Plan <br>
+Data Governance Framework: Please click [here](https://drive.google.com/file/d/1Ksve6Vo_7OadR9Phlxz8AcvX5yPu1Fpu/view?usp=sharing). <br>
+Gantt Chart: Please click [here](https://drive.google.com/file/d/1Bjs2JHvZ_1Fpak-0jvDBUFi8BEEPYr9r/view?usp=sharing)
+
+*Topic: Data Quality, Data Governance, Project Management*
 
 ## Article
 - [E-commerce opportunities in Vietnam](https://www.vietnam-briefing.com/news/e-commerce-logistics-emerging-opportunities-vietnam.html/)
