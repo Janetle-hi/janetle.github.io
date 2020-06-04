@@ -20,11 +20,13 @@ Predicting the probability that a customer will churn or stay has an important r
 *Tools: Python, Scikit-Learn, Feature Scaling, Logistic Regression, Decision Tree, Random Forest, SVM, Neural Network*.
 
 ---
-#### [Customer Segmentation by RFM Clustering](/RFM.md)
-<img src="images/RFM.PNG"/>
-Perform RFM (Recency, Frequency, Monetary) analysis to group customers based on their transaction history – how recently, how often and how much did they buy. RFM analysis is super useful in understanding responsiveness of your customers and for segmentation driven database marketing.
-
-*Tool: Python,RFM model, K-NN, Tableau*
+#### [KPMG Virtual Internship Program - Customer Segmentation](https://drive.google.com/file/d/1vmp2tnGIrvntwETCtVwHIu8ryMAUXRl3/view?usp=sharing)
+<img src="images/KPMG.PNG"/>
+Perform Cohort Analysis, RFM (Recency, Frequency, Monetary) analysis and K-means Clustering to group customers based on their transaction history for targeting top customers and customized marketing.
+<br><br>
+Code: [Jupiter Notebook](https://github.com/Janetle-hi/RFM-Analysis/blob/master/Customer%20Segmentation.ipynb)
+Visualization: [Dashboard](https://public.tableau.com/profile/trang3010#!/vizhome/SprocketCentral_15910466890810/SprocketCentral?publish=yes)
+*Tool: Cohort Analysis, RFM model, K-NN, Tableau*
 
 ---
 #### [Azerbaijani Laundromat](/money.md)
