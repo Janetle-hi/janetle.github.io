@@ -4,14 +4,17 @@
 
 ## Project 
 
-#### [Fake news detection](/news.md)
-<img src="images/covernews.png"/>
+#### [Fake news detection](https://github.com/Janetle-hi/Text-Classification/blob/main/Final%20Report.pdf)
+<img src="images/covernews.jpg"/>
 As misinformation, rumors or fake news are becoming abundant, this project is motivated by the clash between real news and fake news. How can we minimize the damage and public insecurity caused by its explosive growth? The project is structured around the 2 main research questions:
 1. Can we automatically classify a news article as real or fake news? <br>
 2. Can we quickly identify the topic of news through the topwords?.<br>
 <br>
 
 *Tools: Python, Scikit-Learn, nltk, tf-idf, Text Classification, Topic Modeling, LDA, NER, Logistic Regression, Decision Tree, Random Forest, Naive Bayers, Natural language Processing, KNN.
+<br>
+Code: [Jupiter Notebook](https://github.com/Janetle-hi/Text-Classification/blob/main/NLP%20Project_Fake%20and%20real%20news.ipynb) 
+<br>
 
 #### [Airbnb Price Prediction](/sample.md)
 <img src="images/Airbnb Slide.png"/>
