@@ -4,6 +4,15 @@
 
 ## Project 
 
+#### [Fake news detection](/news.md)
+<img src="images/covernews.png"/>
+As misinformation, rumors or fake news are becoming abundant, this project is motivated by the clash between real news and fake news. How can we minimize the damage and public insecurity caused by its explosive growth? The project is structured around the 2 main research questions:
+1. Can we automatically classify a news article as real or fake news? <br>
+2. Can we quickly identify the topic of news through the topwords?.<br>
+<br>
+
+*Tools: Python, Scikit-Learn, nltk, tf-idf, Text Classification, Topic Modeling, LDA, NER, Logistic Regression, Decision Tree, Random Forest, Naive Bayers, Natural language Processing, KNN.
+
 #### [Airbnb Price Prediction](/sample.md)
 <img src="images/Airbnb Slide.png"/>
 Airbnb is one of the largest online marketplaces for arranging or offering apartments, homestays and lodging. New York is listed as one of the top 10 popular cities for booking experiences in the world.However, there are currently no free and accurate services which help hosts price their properties using a wide range of data points. This project aims to help hosts determine a proper nightly rate based on the pricing model built from a range of relative factors in the New York Area.<br>
