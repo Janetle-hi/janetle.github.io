@@ -10,11 +10,15 @@ As misinformation, rumors or fake news are becoming abundant, this project is mo
 1. Can we automatically classify a news article as real or fake news? <br>
 2. Can we quickly identify the topic of news through the topwords?.<br>
 
-
 *Tools: Python, Scikit-Learn, nltk, tf-idf, Text Classification, Topic Modeling, LDA, NER, Logistic Regression, Decision Tree, Random Forest, Naive Bayers, Natural language Processing, KNN.
 <br> <br>
 Code: [Jupiter Notebook](https://github.com/Janetle-hi/Text-Classification/blob/main/NLP%20Project_Fake%20and%20real%20news.ipynb) 
 <br>
+
+#### [Movie Recommendation](https://github.com/Janetle-hi/Movie-Recommendation/blob/master/Movie_Recommendation.ipynb)
+<img src="images/netflix.png"/>
+Shopping online or watching movies is always one of the favourite activities to do for most of us, but most people tend to experience difficult times in finding a good suggestion for their likings and taste. Recommendation system, thus, is introduced as a powerful tool with advanced data leverage techniques on products and customers’ preferences to help in suggesting movie titles and shopping items that can satisfy all. We will apply collaborative filtering techniques in our project to analyse and create a recommendation engine on IMDB datasets from Kaggle.com. <br>
+*Tools: Python, Scikit-Learn, KNN, SVD, content-based system, collaborative filtering system
 
 #### [Airbnb Price Prediction](/sample.md)
 <img src="images/Airbnb Slide.png"/>
