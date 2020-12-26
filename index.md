@@ -82,6 +82,7 @@ Gantt Chart: Please click [here](https://drive.google.com/file/d/1Bjs2JHvZ_1Fpak
 - [E-commerce opportunities in Vietnam](https://www.vietnam-briefing.com/news/e-commerce-logistics-emerging-opportunities-vietnam.html/)
 - [Pharmacy Law Guidance Scheduled for July Implementation in Vietnam](https://www.vietnam-briefing.com/news/pharmacy-law-guidance-scheduled-july-implementation-vietnam.html/)
 
-
+## Report
+- Contributor to annual largest research on corporate giving [Giving in Number, 2020 Edition](https://cecp.co/home/resources/giving-in-numbers/)
 
 ---
