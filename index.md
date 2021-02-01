@@ -79,7 +79,7 @@ Gantt Chart: Please click [here](https://drive.google.com/file/d/1Bjs2JHvZ_1Fpak
 *Topic: Data Quality, Data Governance, Project Management*
 
 ## Article
-- [E-commerce opportunities in Vietnam](https://www.vietnam-briefing.com/news/e-commerce-logistics-emerging-opportunities-vietnam.html/)
+- [EE-commerce Logistics: Emerging Opportunities in Vietnam](https://www.vietnam-briefing.com/news/e-commerce-logistics-emerging-opportunities-vietnam.html/)
 - [Pharmacy Law Guidance Scheduled for July Implementation in Vietnam](https://www.vietnam-briefing.com/news/pharmacy-law-guidance-scheduled-july-implementation-vietnam.html/)
 
 ## Report
