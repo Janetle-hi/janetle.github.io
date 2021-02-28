@@ -4,6 +4,18 @@
 
 ## Project 
 
+---
+#### [KPMG Virtual Internship Program - Customer Segmentation](https://drive.google.com/file/d/1vmp2tnGIrvntwETCtVwHIu8ryMAUXRl3/view?usp=sharing)
+<img src="images/KPMG.PNG"/>
+Perform Cohort Analysis, RFM (Recency, Frequency, Monetary) analysis and K-means Clustering to group customers based on their transaction history for targeting top customers and customized marketing.
+<br><br>
+Code: [Jupiter Notebook](https://github.com/Janetle-hi/RFM-Analysis/blob/master/Customer%20Segmentation.ipynb) 
+<br>
+Visualization: [Dashboard](https://public.tableau.com/profile/trang3010#!/vizhome/SprocketCentral_15910466890810/SprocketCentral?publish=yes) 
+<br>
+*Tool: Cohort Analysis, RFM model, K-NN, Tableau*
+
+---
 #### [Fake news detection](https://github.com/Janetle-hi/Text-Classification/blob/main/Final%20Report.pdf)
 <img src="images/covernews.jpg"/>
 As misinformation, rumors or fake news are becoming abundant, this project is motivated by the clash between real news and fake news. How can we minimize the damage and public insecurity caused by its explosive growth? The project is structured around the 2 main research questions:
@@ -27,24 +39,12 @@ Airbnb is one of the largest online marketplaces for arranging or offering apart
 
 *Tools: Python, Scikit-Learn, Feature Scaling, Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, Natural language Processing, Web develop*.
 
-
 ---
 #### [Customer Churn Prediction](https://github.com/Janetle-hi/Customer-Churn-Prediction/blob/master/Churn%20Modeling.ipynb)
 <img src="images/churn.jpg"/>
 Predicting the probability that a customer will churn or stay has an important role in the implementation of customer retention strategy especially in telecommunications sectors. By predicting user churn, we can take personalized measures and suitable customer service for each user segment.
 
 *Tools: Python, Scikit-Learn, Feature Scaling, Logistic Regression, Decision Tree, Random Forest, SVM, Neural Network*.
-
----
-#### [KPMG Virtual Internship Program - Customer Segmentation](https://drive.google.com/file/d/1vmp2tnGIrvntwETCtVwHIu8ryMAUXRl3/view?usp=sharing)
-<img src="images/KPMG.PNG"/>
-Perform Cohort Analysis, RFM (Recency, Frequency, Monetary) analysis and K-means Clustering to group customers based on their transaction history for targeting top customers and customized marketing.
-<br><br>
-Code: [Jupiter Notebook](https://github.com/Janetle-hi/RFM-Analysis/blob/master/Customer%20Segmentation.ipynb) 
-<br>
-Visualization: [Dashboard](https://public.tableau.com/profile/trang3010#!/vizhome/SprocketCentral_15910466890810/SprocketCentral?publish=yes) 
-<br>
-*Tool: Cohort Analysis, RFM model, K-NN, Tableau*
 
 ---
 #### [Azerbaijani Laundromat](/money.md)
