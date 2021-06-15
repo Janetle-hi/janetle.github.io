@@ -11,7 +11,7 @@ Perform Cohort Analysis, RFM (Recency, Frequency, Monetary) analysis and K-means
 <br><br>
 Code: [Jupiter Notebook](https://github.com/Janetle-hi/RFM-Analysis/blob/master/Customer%20Segmentation.ipynb) 
 <br>
-Visualization: [Dashboard](https://public.tableau.com/profile/trang3010#!/vizhome/SprocketCentral_15910466890810/SprocketCentral?publish=yes) 
+Visualization: [Dashboard](https://public.tableau.com/app/profile/trang3010/viz/SprocketCentral_15910466890810/SprocketCentral) 
 <br>
 *Tool: Cohort Analysis, RFM model, K-NN, Tableau*
 
